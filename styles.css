@@ -1,6 +1,6 @@
 @font-face{
     font-family: monument;
-    src: url("/MonumentExtended-Regular.woff2") format("woff2");
+    src: url("./MonumentExtended-Regular.woff2") format("woff2");
 }
 *{
     padding: 0;
